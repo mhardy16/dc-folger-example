@@ -1,6 +1,6 @@
 {
   "id": "ec",
-  "documentName": "Hamilton Letter",
+  "documentName": "Hamilton Letter 2",
   "iiifManifest": "/dc-folger-example/hamilton/iiif/manifest.json",
   "transcriptionTypes": {
     "hamilton": "Transcription"
