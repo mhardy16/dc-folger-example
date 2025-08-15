@@ -1,9 +1,9 @@
 {
   "id": "ec",
-  "documentName": "<DOCUMENT_NAME>",
-  "iiifManifest": "/<BASE_DIR>/<DOCUMENT_ID>/iiif/manifest.json",
+  "documentName": "Hamilton Letter",
+  "iiifManifest": "/dc-folger-example/hamilton/iiif/manifest.json",
   "transcriptionTypes": {
     "transcription": "Transcription"
   },
-  "viewerUrl": "/<BASE_DIR>"
+  "viewerUrl": "/dc-folger-example"
 }
